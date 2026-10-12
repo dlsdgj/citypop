@@ -4,6 +4,20 @@
 
 > A retro City Pop theme for Obsidian with **three carefully tuned color schemes** — two light variants (Record Sleeve / Poolside Afternoon) and one dark (Sunset Grid), bringing the vinyl record, poolside afternoon and neon night aesthetics into your notes.
 
+## 截图 / Screenshots
+
+![](screenshot.png)
+*三套配色总览 / All three schemes at a glance*
+
+![](citypop-record-sleeve-light.png)
+*浅色 · C 唱片封套（默认），黑胶唱片横幅 / Light · Record Sleeve (default) with vinyl banner*
+
+![](citypop-poolside-light.png)
+*浅色 · A 泳池午后，泳池场景横幅 / Light · Poolside Afternoon with poolside banner*
+
+![](citypop-sunset-grid-dark.png)
+*暗色 · B 日落网格，retrowave 日落横幅 / Dark · Sunset Grid with retrowave sunset banner*
+
 ## 配色方案 / Color Schemes
 
 | 方案 | 模式 | 背景 | 文字 | 强调色 |
@@ -24,11 +38,11 @@
 
 > Switch between light variants via the Style Settings plugin; the dark scheme applies automatically. Each scheme ships a hand-drawn SVG banner (vinyl / poolside / retrowave sunset) shown atop notes and can be hidden. Sidebar file list carries track-style numbering. 80s print details: decorated headings, slightly tilted H2, hard-shadow buttons & tags — all turning neon glow in dark mode. Neon cornered callouts in dark mode.
 
-## 配套插件推荐 / Recommended Plugin
+## 插件推荐 / Recommended Plugin
 
-- [Swift Snippets](https://community.obsidian.md/plugins/swift-snippets) — 在标签页上快速切换主题与配色方案，配合本主题的三套配色使用体验最佳
+- [SwiftSwitch](https://community.obsidian.md/plugins/swift-snippets) — 在标签页上快速切换主题与配色方案
 
-> [Swift Snippets](https://community.obsidian.md/plugins/swift-snippets) — quickly switch themes and color schemes right from the tab bar. Pairs perfectly with City Pop's three color schemes.
+> [SwiftSwitch](https://community.obsidian.md/plugins/swift-snippets) — quickly switch themes and color schemes right from the tab bar
 
 ## 安装 / Install
 
@@ -38,16 +52,3 @@
 
 > **Community themes**: Settings → Appearance → Themes → Manage → Browse → search "City Pop" → Install & Enable. **Manual**: download `theme.css` and `manifest.json` into `.obsidian/themes/City Pop/` inside your vault, then enable it in Appearance settings.
 
-## 截图 / Screenshots
-
-![](screenshot.png)
-*三套配色总览 / All three schemes at a glance*
-
-![](citypop-record-sleeve-light.png)
-*浅色 · C 唱片封套（默认），黑胶唱片横幅 / Light · Record Sleeve (default) with vinyl banner*
-
-![](citypop-poolside-light.png)
-*浅色 · A 泳池午后，泳池场景横幅 / Light · Poolside Afternoon with poolside banner*
-
-![](citypop-sunset-grid-dark.png)
-*暗色 · B 日落网格，retrowave 日落横幅 / Dark · Sunset Grid with retrowave sunset banner*
