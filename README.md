@@ -7,16 +7,8 @@
 ## 截图 / Screenshots
 
 ![](screenshot.png)
-*三套配色总览 / All three schemes at a glance*
 
-![](citypop-record-sleeve-light.png)
-*浅色 · C 唱片封套（默认），黑胶唱片横幅 / Light · Record Sleeve (default) with vinyl banner*
 
-![](citypop-poolside-light.png)
-*浅色 · A 泳池午后，泳池场景横幅 / Light · Poolside Afternoon with poolside banner*
-
-![](citypop-sunset-grid-dark.png)
-*暗色 · B 日落网格，retrowave 日落横幅 / Dark · Sunset Grid with retrowave sunset banner*
 
 ## 配色方案 / Color Schemes
 
